@@ -1,0 +1,6 @@
+{
+  [
+    {"id":1, "name":"Clark", "madeup_name":"SuperMan"},
+    {"id":2, "name":"Peter Parker", "madeup_name":"Spider-Man"}
+   ]
+ }
